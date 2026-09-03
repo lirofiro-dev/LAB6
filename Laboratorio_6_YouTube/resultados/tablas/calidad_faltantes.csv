@@ -1,0 +1,7 @@
+﻿dataset,variable,faltantes_na,blancos_texto,porcentaje_afectado
+youtube_comments,viewer_rating,406,0,100.0
+youtube_comments,like_count_text,0,189,46.55
+youtube_videos,description,26,0,8.87
+youtube_videos,description_snippet,25,0,8.53
+youtube_videos,published_time,13,0,4.44
+youtube_videos,view_count_text,13,0,4.44

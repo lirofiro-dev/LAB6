@@ -1,0 +1,13 @@
+{
+  "estado": "completado",
+  "alcance": "actividades 1 a 4",
+  "fecha_generacion_utc": "2026-09-03T21:27:31Z",
+  "archivos_entrada": [
+    "data/youtube_videos.csv",
+    "data/youtube_comments.csv"
+  ],
+  "informe_pdf": "resultados/informe/Informe_Avance_Laboratorio_6_YouTube.pdf",
+  "informe_editable": "resultados/informe/Informe_Avance_Editable.md",
+  "tablas_generadas": 28,
+  "figuras_generadas": 8
+}

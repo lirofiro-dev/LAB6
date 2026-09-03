@@ -1,0 +1,3 @@
+﻿dataset,filas,columnas,llave_primaria,duplicados_llave,celdas_faltantes,variables_constantes
+youtube_videos,293,20,video_id,0,77,Ninguna
+youtube_comments,406,17,comment_id,0,406,"is_pinned, viewer_rating"

@@ -1,0 +1,7 @@
+﻿comprobacion,casos
+video_id duplicado en videos,0
+comment_id duplicado,0
+channel_id con varios nombres en videos,0
+author_channel_id con varios nombres,0
+upload_date distinto de publish_date,0
+owner_handle distinto de channel_handle,0
