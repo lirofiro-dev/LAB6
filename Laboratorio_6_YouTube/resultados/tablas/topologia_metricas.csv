@@ -1,0 +1,4 @@
+﻿red,nodos,aristas,densidad,grado_medio,grado_mediana,grado_maximo,grado1_pct,sesgo_grados,componentes,componente_mayor_nodos,componente_mayor_pct
+bipartita autor-video,351,343,0.00558,1.954,1.0,128,93.16,13.509,10,286,81.48
+proyeccion autor-autor,332,10732,0.19532,64.651,48.0,183,0.6,0.34,10,276,83.13
+proyeccion video-video,19,11,0.06433,1.158,1.0,4,15.79,0.948,10,10,52.63
