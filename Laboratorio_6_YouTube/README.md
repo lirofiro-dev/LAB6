@@ -121,7 +121,3 @@ Según la consigna, además de este repositorio se debe entregar por separado:
 - Informe en PDF (`Informe_Final_Laboratorio_6_YouTube.pdf`).
 - Enlace al espacio colaborativo del grupo.
 - Enlace a este repositorio.
-
-## Autores
-
-_Completar con los integrantes del grupo y sus contribuciones._
