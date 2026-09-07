@@ -1,13 +1,15 @@
 {
   "estado": "completado",
-  "alcance": "actividades 1 a 4",
-  "fecha_generacion_utc": "2026-09-03T21:27:31Z",
+  "alcance": "actividades 1 a 10 (laboratorio completo)",
+  "fecha_generacion_utc": "2026-09-07T02:28:37Z",
   "archivos_entrada": [
     "data/youtube_videos.csv",
     "data/youtube_comments.csv"
   ],
-  "informe_pdf": "resultados/informe/Informe_Avance_Laboratorio_6_YouTube.pdf",
-  "informe_editable": "resultados/informe/Informe_Avance_Editable.md",
-  "tablas_generadas": 28,
-  "figuras_generadas": 8
+  "notebook_principal": "Laboratorio_6.ipynb",
+  "informe_avance_pdf": "resultados/informe/Informe_Avance_Laboratorio_6_YouTube.pdf",
+  "informe_avance_editable": "resultados/informe/Informe_Avance_Editable.md",
+  "informe_final_pdf": "resultados/informe/Informe_Final_Laboratorio_6_YouTube.pdf",
+  "tablas_generadas": 43,
+  "figuras_generadas": 9
 }

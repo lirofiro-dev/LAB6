@@ -1,0 +1,9 @@
+﻿channel_name,comentarios,autores_unicos,sentimiento_medio,positivos,negativos
+Quorum,256,214,0.08111979166666666,47,24
+Gobierno de la República de Guatemala,70,50,0.15714285714285714,19,8
+Noticias Telemundo,25,18,0.0,3,3
+Municipalidad de Guatemala,25,25,0.52,14,1
+Noti7,14,13,0.14285714285714285,3,1
+PrensaLibreOficial,7,7,0.2857142857142857,2,0
+TN23 Guatemala,7,7,0.0,0,0
+Noticiero Guatevisión 13 Hrs.,2,2,-0.5,0,1
